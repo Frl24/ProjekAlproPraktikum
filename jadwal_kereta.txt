@@ -1,0 +1,5 @@
+GA012,Jakarta,Bandung,11:00,13:00,10
+GA345,Jakarta,Yogyakarta,12:00,14:00,10
+GA789,Jakarta,Medan,10:00,12:00,10
+GA123,Jakarta,Bali,08:00,10:00,10
+GA456,Jakarta,Surabaya,09:00,11:00,10
